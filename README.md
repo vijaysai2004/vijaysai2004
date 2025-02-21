@@ -1,5 +1,5 @@
 - 👋 Hi, I’m vijaysai
-- currently perusing btech
+- currently persuing btech
 - i'm a public speaker
 - 👀 I’m interested in animating and social workings
 - 🌱 I’m currently learning generative AI and animation
